@@ -1,5 +1,5 @@
 
-# 8-Channel PPM Receiver with nRF24L01
+# 8-Channel PPM Receiver with nRF24L01 module
 
 This repository contains code for an Arduino-based 8-channel PPM (Pulse Position Modulation) receiver, using the nRF24L01 wireless transceiver module. The receiver maps wireless control signals to PPM output, which can be used to control a wide range of RC devices.
 
